@@ -13,5 +13,12 @@
 				"AIModule"
 			]
 		}
+	],
+	"Plugins": [
+		{
+			"Name": "PathFollow",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/offers/7c19d00ad42a4b67972eea383dedb7f3"
+		}
 	]
 }
